@@ -1,0 +1,21 @@
+.footer{
+    height: 187px;
+    border: 2px solid blueviolet;
+    margin: 4px 0px;
+    background-color: rgb(2, 2, 121);
+    color: white;
+}
+
+p{
+    text-align: center;
+    padding-top: 130px;
+    /* font-size: 18px; */
+}
+.icons{
+    align-items: center;
+    padding: 50px 46%;
+
+}
+#icon2{
+    margin: 0px 16px;
+}

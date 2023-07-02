@@ -1,0 +1,126 @@
+.container{
+    background-color: rgb(68, 23, 110);
+    height: 80vh;
+    color: white;
+    text-align: center;
+    margin: 7px 0px;
+}
+.name{
+    padding-top: 10%;
+}
+.icons{
+    align-items: center;
+    padding: 50px 46%;
+    height: 12px;
+    
+}
+#link{
+    color: white;
+    
+}
+#icon2{
+    margin: 0px 16px;
+    /* background-color: white; */
+}
+
+.about{
+    /* background-color: rgb(68, 23, 110); */
+    height: 80vh;
+    color: black;
+    text-align: center;
+    display: flex;
+    
+}
+.head{
+    text-align: center;
+    
+}
+.left{
+    margin: 3px 4px;
+    /* padding: 1px 19%; */
+    /* border: 1px solid black; */
+    width: 60%;
+    
+}
+.right{
+    margin: 40px 20px;
+    width: 90%;
+    height: 30%;
+    padding-top: 172px;
+    /* border: 1px solid black; */
+    box-shadow: 0px 0px 10px 0px gray;
+
+}
+.head1{
+    text-align: center;
+    margin: 37px;
+}
+
+
+/* Skill */
+
+.skill{
+    /* border: 1px solid peru; */
+    height: 100vh;
+    padding: 4px;
+    background-color: rgb(221, 221, 248);
+}
+.web{
+    margin: 35px 88px;
+    width: 37%;
+    height: 142px;
+    box-shadow: 0px 0px 11px 1px gray;
+    background-color: white;
+}
+.back{
+    
+        /* border: 1px solid blue; */
+        margin: 40px 49%;
+        width: 37%;
+        height: 142px;
+        box-shadow: 0px 0px 11px 1px gray;
+        background-color: white;
+}
+h2{
+    text-align: center;
+    padding: 12px;
+}
+.w1{
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.b1{
+    color: black;
+    font-size: medium;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.language{
+    /* border: 1px solid blu; */
+    margin: 40px 88px;
+    width: 37%;
+    height: 142px;
+    box-shadow: 0px 0px 11px 1px gray;
+    background-color: white;
+}
+
+#pri{
+    margin: -120px;
+    padding: 25px 166px;
+    font-size: 20px;
+}
+
+#img1{
+    height: 330px;
+    width: 79%;
+    padding-top: 5px;
+    box-shadow: 0px 0px 11px 0px gray;
+    margin: 22px;
+}
+.container1{
+    background-color: rgb(182, 179, 179);
+    height: 90vh;
+
+}
